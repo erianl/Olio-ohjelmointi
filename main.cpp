@@ -1,4 +1,4 @@
-#include "olio1.h"
+#include "gamenew.h"
 #include <iostream>
 using namespace std;
 
